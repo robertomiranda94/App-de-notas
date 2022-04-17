@@ -1,0 +1,17 @@
+[
+{
+    "titulo" : "Tareas del playground",
+    "estado" : "terminada"
+},
+
+{
+    "titulo" : "Ser hacker",
+    "estado" : "en progreso"
+},
+
+{
+    "titulo" : "Ir al gym",
+    "estado" : "pendiente"
+
+}
+]
